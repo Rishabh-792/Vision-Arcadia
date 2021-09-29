@@ -24,8 +24,8 @@ We then deployed the trained model on RPi to automate laptop keys and two machin
 
 
 Created By team RoboKnights: 
-B20063 Rishabh 
-B20220 Payal 
-B20284 Chandresh 
-B20306 Prashun 
-B20319 Shashwat
+1. B20063 Rishabh 
+2. B20220 Payal 
+3. B20284 Chandresh 
+4. B20306 Prashun 
+5. B20319 Shashwat
