@@ -1,3 +1,14 @@
 This document contains details about our problem statement.
 
 1) Soda Machine Problem
+We see many soda shops in our localities and even though the soda pops out of a machine, pretty much everything is done by the vendor and it increases the time of service and also increases the chances of spillage, underfill, overfill, etc..
+To counter this issue we propose an automated soda machine which works (literally) by the tips our hand. We need to show some gestures corresponding to different button on soda m/c and the preinstalled cups fixed in their places will be filled by the flavour of our choice.
+Okay, so now this works when we show different number gestures to the camera installed on top of soda m/c. Each number (1-4) corresponds to different flavours of soda and the number 5 is reserved for shutting down the machine.
+
+Code Logic :
+We saved our numbers model and loaded it in the code. Then we predicted the class of the image shown by user (tested this) with our model and saved the o/p to variable called classes.
+We then assigned a bool to check for the state of the machine where 'True' means on and 'False means off. It is followed by if statements where we check the I/P class given to us and accordingly we operate the buttons on soda m/c and print a small line of text for user to comprehend.
+When we get an input of number five our bool is set to false which implies that the m/c is now turned off.
+
+
+2) Alarm Clock Problem
