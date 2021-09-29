@@ -18,7 +18,7 @@ We used sequential CNN to build a model to recognize hand gestures like :
   ‣ Thumbs Up 👍
   ‣ Yo 🤟
 
-We then deployed the trained model on RPi to automate laptop keys and two machine projects :
+We then deployed the trained model to automate laptop keys and then used RPi to simulate two machine projects :
   1) Alarm Clock
   2) Soda Machine
 
