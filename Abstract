@@ -12,10 +12,11 @@ When we get an input of number five our bool is set to false which implies that 
 
 
 2) Alarm Clock Problem?
-Why do we need alarm clock and who uses alarm clock? Now that's the question arise in our mind
-Now we are the engineers and we are known to world for are accurate timing we get up at 7:55 and get ready and reach classes at 8 but what about other who doesn't have such skills .they need alarm clock to get up and go to work
-Now we automated the alarm clock with the help of hand gasture so that a person must be fully awaken to stop it . It not that simlpy buy just tapping a button such hard that clock doesn't ring on next days or its battery comes out aur its glass broke.
-Person must on camera to stop it that will help him to get out of his sleep .
+Why do we need an alarm clock and who uses an alarm clock? Now that's the question which arises in our mind!
+We are the modern age engineers and we are known for our rush timings when we get up at 7:55 and we get ready and reach classes by 8 but still many people need alarm clock to actually get up and go to work.
+Now we automated the alarm clock with the help of hand gestures and set it so that a person must be fully awaken to stop it. This advanced solution has many advantages like it won't easily break by hard pressing of buttons and its glass will be protected for a longer life and most importantly, you need to actually wake your mind to show that particular gesture to stop the alarm.
+
+This capturing of image by camera might wake the person up and ready for his daily chores in time.
 
 Code Logic:
 We saved our gestures model and loaded it in the code. Then we predicted the class of the image shown by user (tested this) with our model and saved the o/p to variable called classes.
